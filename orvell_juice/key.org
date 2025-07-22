@@ -1,0 +1,10 @@
++TITLE: Answer Key – Mini Quiz: ML + GUI Integration
+#+AUTHOR: Evan Misshula
+#+DATE: \today
+
+* Answer Key
+1. B) It keeps the GUI responsive during prediction  
+2. B) joblib  
+3. C) It causes the interface to freeze temporarily  
+4. C) Progressbar  
+5. A) During application initialization  
